@@ -1,5 +1,6 @@
 # 🤖 About Me:
-Im a Computer Science student at University of Minho in Braga
+Im a Computer Science student at 🎓 University of Minho 🎓 in Braga  
+Avid fishermen 🐟
 
 
 ## 🌐 Socials:
