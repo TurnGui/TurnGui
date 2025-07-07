@@ -1,58 +1,18 @@
-<h1 align="left">💠Hello World ʕっ•ᴥ•ʔっ</h1>
+# 💫 About Me:
+Im a Computer Science student at University of Minho in Braga
 
-###
 
-<p align="left">🔴 My name is Guilherme and this is my humble little place on the internet 	☉ ‿ ⚆  I'm a Computer Science student from 🎓 Universidade do Minho 🎓 in Braga.</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/turn___) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g.duarte027) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gduarte027) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermefduarte2702@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TurnGui&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TurnGui&theme=slateorange&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TurnGui&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<h2 align="center">About me:</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=TurnGui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">‎ (╯°□°)╯🌀 I'm a second year student!<br>ヽ༼ຈຈ༽ﾉ‎ ‎‎  🌀 Fun fact: <br>-> I started coding because i loved learning from my brother ( also a programmer ) when i was younger!<br>-> I love playing chess! <br>♜♞♝♛♚♝♞♜<br>♙♙♙♙♙♙♙♙<br>‎ ‎ ‎ ‎ □■□■□■□■<br>‎ ‎ ‎ ‎‎ ■□■□■□■□<br>‎ ‎ ‎ ‎‎ □■□■□■□■<br>‎ ‎ ‎ ‎ ■□■□■□■□<br>♙♙♙♙♙♙♙♙<br>♖♘♗♕♔♗♘♖</p>
-
-###
-
-<h2 align="center">🔧 Coding languages i use:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<img align="right" height="300" src="https://media.tenor.com/BY8xjanvp9IAAAAi/lethal-company-dance.gif"  />
-
-###
-
-<img align="left" height="300" src="https://media.tenor.com/BY8xjanvp9IAAAAi/lethal-company-dance.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/TurnGui/TurnGui/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://x.com/gduarte027" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/g.duarte027/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
