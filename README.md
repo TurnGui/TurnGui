@@ -1,16 +1,9 @@
-# 🤖 About Me:
-Im a Computer Science student at 🎓 University of Minho 🎓 in Braga  
-Avid fishermen 🐟
-
+# 👨‍💻 About Me:
+I’m a final-year Computer Science student at the University of Minho, Braga. Passionate about programming and building software that solves real-world problems. I’m actively looking for internship opportunities to grow my skills and contribute to exciting projects. Outside of coding, I enjoy fishing — a hobby that helps me relax and think creatively.
 
 ## 🌐 Socials:
-<div align="left">
-  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/turn___) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g.duarte027) 
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gduarte027)
 
-</div>
+💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-duarte-520476384
 
 📧 **Email:** guilhermefduarte2702@gmail.com
 
