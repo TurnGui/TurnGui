@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-I’m a final-year Computer Science student at the University of Minho, Braga. Passionate about programming and building software that solves real-world problems. I’m actively looking for internship opportunities to grow my skills and contribute to exciting projects. Outside of coding, I enjoy fishing — a hobby that helps me relax and think creatively.
+I’m a final-year Computer Science student at the University of Minho, Braga. Passionate about programming and building software that solves real-world problems. I’m actively looking for internship opportunities to grow my skills and contribute to exciting projects. Outside of coding, I enjoy fishing, a hobby that helps me relax and think creatively.
 
 ## 🌐 Socials:
 
