@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Recent Computer Science graduate from the University of Minho, Braga, looking for a junior backend developer role. I built Splitwise API, a full-featured Java/Spring Boot REST API for group expense splitting. Outside of coding, I volunteer as a coding mentor at CoderDojo.
+Recent CS graduate from University of Minho. Building backend systems in Java/Spring Boot and fullstack apps with React. Check out my projects below. I volunteer as a coding mentor at CoderDojo. Outside of programming i love fishing and board games.
 
 ## 🌐 Socials:
 
